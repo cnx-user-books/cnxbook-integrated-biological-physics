@@ -1,0 +1,103 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12027</md:content-id>
+    <md:title>Integrated Biological Physics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>e526bf02-cfae-454d-92b7-450207d2450e</md:uuid>
+<md:slug>integrated-biological-physics</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction to Fluids</md:title>
+      <col:content>
+        <col:module document="m42185"/>
+        <col:module document="m42186"/>
+        <col:module document="m42187"/>
+        <col:module document="m42189"/>
+        <col:module document="m42192"/>
+        <col:module document="m42193"/>
+        <col:module document="m42195"/>
+        <col:module document="m42196"/>
+        <col:module document="m42197"/>
+        <col:module document="m42199"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fluid Dynamics in the Circulatory System and Cellular Processes</md:title>
+      <col:content>
+        <col:module document="m46597"/>
+        <col:module document="m46710"/>
+        <col:module document="m46635"/>
+        <col:module document="m60516"/>
+        <col:module document="m55224"/>
+        <col:module document="m42209"/>
+        <col:module document="m42206"/>
+        <col:module document="m42208"/>
+        <col:module document="m42210"/>
+        <col:module document="m42211"/>
+        <col:module document="m42212"/>
+        <col:module document="m46021"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electricity in Cells, Muscles and Neurons</md:title>
+      <col:content>
+        <col:module document="m42315"/>
+        <col:module document="m56573"/>
+        <col:module document="m57994"/>
+        <col:module document="m42352"/>
+        <col:module document="m44748"/>
+        <col:module document="m45437"/>
+        <col:module document="m44431"/>
+        <col:module document="m56020"/>
+        <col:module document="m51142"/>
+        <col:module document="m44425"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric charge and field</md:title>
+      <col:content>
+        <col:module document="m42299"/>
+        <col:module document="m42300"/>
+        <col:module document="m42306"/>
+        <col:module document="m42308"/>
+        <col:module document="m42310"/>
+        <col:module document="m42312"/>
+        <col:module document="m42317"/>
+        <col:module document="m42329"/>
+        <col:module document="m42339"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Potential and Energy</md:title>
+      <col:content>
+        <col:module document="m42320"/>
+        <col:module document="m42324"/>
+        <col:module document="m42326"/>
+        <col:module document="m42328"/>
+        <col:module document="m42331"/>
+        <col:module document="m42333"/>
+        <col:module document="m42363"/>
+        <col:module document="m42336"/>
+        <col:module document="m42395"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electric Circuits</md:title>
+      <col:content>
+        <col:module document="m42354"/>
+        <col:module document="m42360"/>
+        <col:module document="m42357"/>
+        <col:module document="m42341"/>
+        <col:module document="m42344"/>
+        <col:module document="m42346"/>
+        <col:module document="m42356"/>
+        <col:module document="m42714"/>
+        <col:module document="m42348"/>
+        <col:module document="m42350"/>
+        <col:module document="m55370"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

@@ -1,0 +1,148 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Human Biology Chapter 8.3: Cardiac Muscle and Electrical Activity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m57994</md:content-id>
+  <md:title>Human Biology Chapter 8.3: Cardiac Muscle and Electrical Activity</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the structure of cardiac muscle</item>
+<item>Identify and describe the components of the conducting system that distributes electrical impulses through the heart</item>
+<item>Relate characteristics of an electrocardiogram to events in the cardiac cycle</item>
+<item>Identify blocks that can interrupt the cardiac cycle</item>
+</list></md:abstract>
+  <md:uuid>b7eae756-f4d7-48ea-9af0-2d682e653e2c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1754472">Recall that cardiac muscle shares a few characteristics with both skeletal muscle and smooth muscle, but it has some unique properties of its own. Not the least of these exceptional properties is its ability to initiate an electrical potential at a fixed rate that spreads rapidly from cell to cell to trigger the contraction mechanism. This property is known as <term>autorhythmicity</term>. Neither smooth nor skeletal muscle can do this. Even though cardiac muscle has autorhythmicity, heart rate is modulated by the endocrine and nervous systems.</para><section id="fs-id1559809"><title>Structure of Cardiac Muscle</title><para id="fs-id2868561">Compared to the giant cylinders of skeletal muscle, cardiac muscle cells, or cardiomyocytes, are considerably shorter with much smaller diameters. Cardiac muscle also demonstrates striations, the alternating pattern of dark A bands and light I bands attributed to the precise arrangement of the myofilaments and fibrils that are organized in sarcomeres along the length of the cell (<link target-id="fig-ch20_02_01" document=""/><emphasis effect="bold">a</emphasis>). These contractile elements are virtually identical to skeletal muscle. T (transverse) tubules penetrate from the surface plasma membrane, the sarcolemma, to the interior of the cell, allowing the electrical impulse to reach the interior. The T tubules are only found at the Z discs, whereas in skeletal muscle, they are found at the junction of the A and I bands. Therefore, there are one-half as many T tubules in cardiac muscle as in skeletal muscle. In addition, the sarcoplasmic reticulum stores few calcium ions, so most of the calcium ions must come from outside the cells. The result is a slower onset of contraction. Mitochondria are plentiful, providing energy for the contractions of the heart. Typically, cardiomyocytes have a single, central nucleus, but two or more nuclei may be found in some cells.</para>
+<para id="fs-id2059765">Cardiac muscle cells branch freely. A junction between two adjoining cells is marked by a critical structure called an <term>intercalated disc</term>, which helps support the synchronized contraction of the muscle (<link target-id="fig-ch20_02_01" document=""/><emphasis effect="bold">b</emphasis>). The importance of strongly binding these cells together is necessitated by the forces exerted by contraction.</para><figure id="fig-ch20_02_01"><title>Cardiac Muscle </title><media id="fs-id2179569" alt="The top left panel of this figure shows the cross structure of cardiac muscle with the major parts labeled. The top right panel shows a micrograph of cardiac muscle. The bottom panel shows the structure of intercalated discs.">
+<image mime-type="image/jpg" src="../../media/2017abc_Cardiac_Muscle.jpg" width="520"/>
+</media>
+<caption>(a) Cardiac muscle cells have intercalated discs that are found at the junction of different cardiac muscle cells. (b) A photomicrograph of cardiac muscle cells shows the nuclei and intercalated discs. (Micrograph provided by the Regents of the University of Michigan Medical School © 2012)</caption></figure><note id="fs-id1506198" class="anatomy everyday">
+<label/>
+<title>Everyday Connection</title>
+<para id="fs-id2473933"><title>Repair and Replacement</title>Damaged cardiac muscle cells have extremely limited abilities to repair themselves or to replace dead cells via mitosis. Recent evidence indicates that at least some stem cells remain within the heart that continue to divide and at least potentially replace these dead cells. However, newly formed or repaired cells are rarely as functional as the original cells, and cardiac function is reduced. In the event of a heart attack or MI, dead cells are often replaced by patches of scar tissue. Autopsies performed on individuals who had successfully received heart transplants show some proliferation of original cells. If researchers can unlock the mechanism that generates new cells and restore full mitotic capabilities to heart muscle, the prognosis for heart attack survivors will be greatly enhanced.</para></note>
+</section><section id="fs-id1958946">
+<title>Conduction System of the Heart</title>
+<para id="fs-id1918000">If embryonic heart cells are separated into a Petri dish and kept alive, each is capable of generating its own electrical impulse followed by contraction. When two independently beating embryonic cardiac muscle cells are placed together, the cell with the higher inherent rate sets the pace, and the impulse spreads from the faster to the slower cell to trigger a contraction. As more cells are joined together, the fastest cell continues to assume control of the rate. A fully developed adult heart maintains the capability of generating its own electrical impulse, triggered by the fastest cells, as part of the cardiac conduction system. The components of the cardiac conduction system include the sinoatrial (SA) node, the atrioventricular (AV) node, the atrioventricular bundle, the atrioventricular bundle branches, and the Purkinje fibers (<link target-id="fig-ch20_02_02" document=""/>).</para><figure id="fig-ch20_02_02"><title>Conduction System of the Heart </title><media id="fs-id2318309" alt="This image shows the anterior view of the frontal section of the heart with the major parts labeled.">
+<image mime-type="image/jpg" src="../../media/2018_Conduction_System_of_Heart.jpg" width="500"/>
+</media>
+<caption>Specialized conducting components of the heart include the sinoatrial (SA) node, the atrioventricular (AV) node, the atrioventricular bundle, the right and left bundle branches, and the Purkinje fibers.</caption></figure><section id="fs-id1547155">
+<title>Sinoatrial (SA) Node</title>
+<para id="fs-id3089583">Normal cardiac rhythm is established by the <term>sinoatrial (SA) node</term>, a specialized clump of myocardial conducting cells located in the superior and posterior walls of the right atrium in close proximity to the opening of the superior vena cava. The SA node is known as the <term>pacemaker</term> of the heart. It initiates the <term>sinus rhythm</term>, or normal electrical pattern followed by contraction of the heart.</para><para id="fs-id1535485">This impulse spreads from its initiation in the SA node throughout the atria to the atrioventricular (AV) node. The impulse takes approximately 50 ms (milliseconds) to travel between these two nodes.  The connective tissue of the cardiac skeleton prevents the impulse from spreading into the myocardial cells in the ventricles except at the atrioventricular node. <link target-id="fig-ch20_02_03" document=""/> illustrates the initiation of the impulse in the SA node that then spreads the impulse throughout the atria to the atrioventricular node.</para><figure id="fig-ch20_02_03"><title>Cardiac Conduction </title><media id="fs-id1520230" alt="This image shows the different stages in the conduction cycle of the heart.">
+<image mime-type="image/jpg" src="../../media/2019_Cardiac_ConductionN.jpg" width="400"/>
+</media>
+<caption>(1) The sinoatrial (SA) node and the remainder of the conduction system are at rest. (2) The SA node initiates the action potential, which sweeps across the atria. (3) After reaching the atrioventricular node, there is a delay of approximately 100 ms that allows the atria to complete pumping blood before the impulse is transmitted to the atrioventricular bundle. (4) Following the delay, the impulse travels through the atrioventricular bundle and bundle branches to the Purkinje fibers. (5) The impulse spreads to the contractile fibers of the ventricle. (6) Ventricular contraction begins.</caption></figure></section>
+<section id="fs-id2213522">
+<title>Atrioventricular (AV) Node</title>
+<para id="fs-id1729268">The <term>atrioventricular (AV) node</term> is a second clump of specialized conductive cells, located in the lower portion of the right atrium within the atrioventricular wall. There is a critical pause before the AV node initiates an impulse and transmits it to the atrioventricular bundle (see <link target-id="fig-ch20_02_03" document=""/>, step 3). </para></section>
+<section id="fs-id1518716">
+<title>Atrioventricular Bundle (Bundle of His), Bundle Branches, and Purkinje Fibers</title>
+<para id="fs-id1273399">Arising from the AV node, the <term>atrioventricular bundle</term>, proceeds through the septum before dividing into two <term>atrioventricular bundle branches</term>, commonly called the left and right bundle branches. The left bundle branch supplies the left ventricle, and the right bundle branch the right ventricle. Both bundle branches descend and reach the apex of the heart where they connect with the Purkinje fibers (see <link target-id="fig-ch20_02_03" document=""/>, step 4).</para><para id="fs-id2533079">The <term>Purkinje fibers</term> are additional myocardial conductive fibers that spread the impulse to the myocardial contractile cells in the ventricles. Since the electrical stimulus begins at the apex, the contraction also begins at the apex and travels toward the base of the heart, similar to squeezing a tube of toothpaste from the bottom. This allows the blood to be pumped out of the ventricles and into the aorta and pulmonary trunk.</para></section>
+</section>
+<section id="fs-id2319074">
+<title>Electrocardiogram</title>
+<para id="fs-id1619546">By careful placement of surface electrodes on the body, it is possible to record the complex, compound electrical signal of the heart. This tracing of the electrical signal is the <term>electrocardiogram (ECG)</term>, also commonly abbreviated EKG (K coming kardiology, from the German term for cardiology). Careful analysis of the ECG reveals a detailed picture of both normal and abnormal heart function, and is an indispensable clinical diagnostic tool. The standard electrocardiograph (the instrument that generates an ECG) uses 3, 5, or 12 leads. The greater the number of leads an electrocardiograph uses, the more information the ECG provides. The term “lead” may be used to refer to the cable from the electrode to the electrical recorder, but it typically describes the voltage difference between two of the electrodes. The 12-lead electrocardiograph uses 10 electrodes placed in standard locations on the patient’s skin (<link target-id="fig-ch20_02_06" document=""/>). In continuous ambulatory electrocardiographs, the patient wears a small, portable, battery-operated device known as a Holter monitor, that continuously monitors heart electrical activity, typically for a period of 24 hours during the patient’s normal routine.</para><figure id="fig-ch20_02_06"><title>Standard Placement of ECG Leads </title><media id="fs-id1626809" alt="This diagram shows the points where electrodes are placed on the body for an ECG.">
+<image mime-type="image/jpg" src="../../media/2021_ECG_Placement_of_Electrodes.jpg" width="350"/>
+</media>
+<caption>In a 12-lead ECG, six electrodes are placed on the chest, and four electrodes are placed on the limbs.</caption></figure><para id="fs-id1336216">A normal ECG tracing is presented in <link target-id="fig-ch20_02_07" document=""/>. Each component, segment, and interval is labeled and corresponds to important electrical events, demonstrating the relationship between these events and contraction in the heart.</para>
+<para id="fs-id2458514">There are five prominent points on the ECG: the P wave, the QRS complex, and the T wave. The small <term>P wave</term> represents the depolarization of the atria. The atria begin contracting approximately 25 ms after the start of the P wave. The large <term>QRS complex</term> represents the depolarization of the ventricles, which requires a much stronger electrical signal because of the larger size of the ventricular cardiac muscle. The ventricles begin to contract as the QRS reaches the peak of the R wave. Lastly, the <term>T wave</term> represents the repolarization of the ventricles. The repolarization of the atria occurs during the QRS complex, which masks it on an ECG.</para>
+<note id="fs-id2189175" class="anatomy interactive"><label/>
+<media id="fs-id2911641" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/ECG.png" width="120"/>
+</media>
+<para id="fs-id1885310">Visit this <link url="http://openstaxcollege.org/l/ECG">site</link> for a more detailed analysis of ECGs.</para>
+</note><figure id="fig-ch20_02_07"><title>Electrocardiogram </title><media id="fs-id1474527" alt="This figure shows a graph of millivolts over time and the heart cycles during an ECG.">
+<image mime-type="image/jpg" src="../../media/2022_Electrocardiogram.jpg" width="430"/>
+</media>
+<caption>A normal tracing shows the P wave, QRS complex, and T wave. Additional segments and intervals are also shown.</caption></figure><figure id="fig-ch20_02_08"><title>ECG Tracing Correlated to the Cardiac Cycle </title><media id="fs-id2176055" alt="This diagram shows the different stages of heart contraction and relaxation along with the stages in the QT cycle.">
+<image mime-type="image/jpg" src="../../media/2023_ECG_Tracing_with_Heart_ContractionN.jpg" width="480"/>
+</media>
+<caption>This diagram correlates an ECG tracing with the electrical and mechanical events of a heart contraction. Each segment of an ECG tracing corresponds to one event in the cardiac cycle.</caption></figure><note id="fs-id1449656" class="anatomy everyday">
+<label/>
+<title>Everyday Connection</title>
+<para id="fs-id1293915">While interpretation of an ECG is possible and extremely valuable after some training, a full understanding of the complexities and intricacies generally requires several years of experience. In general, the size of the electrical variations, the duration of the events, and detailed analysis provide the most comprehensive picture of cardiac function. For example, an amplified P wave may indicate enlargement of the atria and an enlarged Q wave may indicate a MI (Myocardial Infarction). T waves often appear flatter when insufficient oxygen is being delivered to the myocardium. </para><para id="fs-id1527865">As useful as analyzing these electrical recordings may be, there are limitations. For example, not all areas suffering a MI may be obvious on the ECG. Additionally, it will not reveal the effectiveness of the pumping, which requires further testing, such as an ultrasound test called an echocardiogram or nuclear medicine imaging. Common abnormalities that may be detected by the ECGs are shown in <link target-id="fig-ch20_02_09" document=""/>.</para><figure id="fig-ch20_02_09"><title>Common ECG Abnormalities </title><media id="fs-id1499742" alt="In this image the QT cycle for different heart conditions are shown. From top to bottom, the arrhythmias shown are second-degree partial block, atrial fibrillation, ventricular tachycardia, ventricular fibrillation and third degree block.">
+<image mime-type="image/jpg" src="../../media/2024_Cardiac_Arrhythmias.jpg" width="520"/>
+</media>
+<caption>(a) In a second-degree or partial block, one-half of the P waves are not followed by the QRS complex and T waves while the other half are. (b) In atrial fibrillation, the electrical pattern is abnormal prior to the QRS complex, and the frequency between the QRS complexes has increased. (c) In ventricular tachycardia, the shape of the QRS complex is abnormal. (d) In ventricular fibrillation, there is no normal electrical activity. (e) In a third-degree block, there is no correlation between atrial activity (the P wave) and ventricular activity (the QRS complex).</caption></figure></note>
+<note id="fs-id2182268" class="anatomy everyday">
+<label/>
+<title>Everyday Connection</title>
+<para id="fs-id2011302"><title>External Automated Defibrillators</title>
+In the event that the electrical activity of the heart is severely disrupted, cessation of electrical activity or fibrillation may occur. In fibrillation, the heart beats in a wild, uncontrolled manner, which prevents it from being able to pump effectively. Atrial fibrillation (see <link target-id="fig-ch20_02_09" document=""/><emphasis effect="bold">b</emphasis>) is a serious condition, but as long as the ventricles continue to pump blood, the patient’s life may not be in immediate danger. Ventricular fibrillation (see <link target-id="fig-ch20_02_09" document=""/><emphasis effect="bold">d</emphasis>) is a medical emergency that requires life support, because the ventricles are not effectively pumping blood. In a hospital setting, it is often described as “code blue.” If untreated for as little as a few minutes, ventricular fibrillation may lead to brain death. The most common treatment is defibrillation, which uses special paddles to apply a charge to the heart from an external electrical source in an attempt to establish a normal sinus rhythm (<link target-id="fig-ch20_02_10" document=""/>). A defibrillator effectively stops the heart so that the SA node can trigger a normal conduction cycle. Because of their effectiveness in reestablishing a normal sinus rhythm, external automated defibrillators (EADs) are being placed in areas frequented by large numbers of people, such as schools, restaurants, and airports. These devices contain simple and direct verbal instructions that can be followed by nonmedical personnel in an attempt to save a life.</para>
+<figure id="fig-ch20_02_10"><title>Defibrillators </title><media id="fs-id1795131" alt="In this figure two photographs of defibrillators are shown.">
+<image mime-type="image/jpg" src="../../media/2025ab_Defribillators.jpg" width="520"/>
+</media>
+<caption>(a) An external automatic defibrillator can be used by nonmedical personnel to reestablish a normal sinus rhythm in a person with fibrillation. (b) Defibrillator paddles are more commonly used in hospital settings. (credit b: “widerider107”/flickr.com)</caption></figure></note>
+<para id="fs-id1499991">When arrhythmias become a chronic problem, the heart maintains a junctional rhythm, which originates in the AV node. In order to speed up the heart rate and restore full sinus rhythm, a cardiologist can implant an <term>artificial pacemaker</term>, which delivers electrical impulses to the heart muscle to ensure that the heart continues to contract and pump blood effectively. These artificial pacemakers are programmable by the cardiologists and can either provide stimulation temporarily upon demand or on a continuous basis. Some devices also contain built-in defibrillators.</para>
+</section>
+<section id="fs-id2678790" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1037269">The heart is regulated by both neural and endocrine (i.e. hormonal) control, yet it is capable of initiating its own action potential followed by muscular contraction. The conductive cells within the heart establish the heart rate and transmit it through the myocardium. The contractile cells contract and propel the blood. The normal path of transmission for the conductive cells is the sinoatrial (SA) node, atrioventricular (AV) node, atrioventricular (AV) bundle, bundle branches, and Purkinje fibers. Recognizable points on the ECG include the P wave that corresponds to atrial depolarization (i.e. contraction), the QRS complex that corresponds to ventricular depolarization, and the T wave that corresponds to ventricular repolarization (relaxation).</para></section>
+<section id="fs-id2061060" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2481331">
+<problem id="fs-id1246189"><para id="fs-id2955636">Which of the following is unique to cardiac muscle cells?</para>
+<list id="fs-id1253699" list-type="enumerated" number-style="lower-alpha">
+<item>Only cardiac muscle contains a sarcoplasmic reticulum.</item>
+<item>Only cardiac muscle has gap junctions.</item>
+<item>Only cardiac muscle is capable of autorhythmicity</item>
+<item>Only cardiac muscle has a high concentration of mitochondria.</item>
+</list>
+</problem>
+<solution id="fs-id1551799">
+<label/>
+<para id="fs-id1611122">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2042928">
+<problem id="fs-id2214104"><para id="fs-id1499216">Which portion of the ECG corresponds to repolarization (i.e. relaxation) of the atria?</para><list id="fs-id2152704" list-type="enumerated" number-style="lower-alpha">
+<item>P wave</item>
+<item>QRS complex</item>
+<item>T wave</item>
+<item>none of the above: atrial repolarization is masked by ventricular depolarization</item>
+</list>
+</problem>
+<solution id="fs-id2937787">
+<label/>
+<para id="fs-id1814777">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1536016" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1326983">
+<problem id="fs-id1559304"><para id="fs-id1364020">How does the delay of the impulse at the atrioventricular node contribute to cardiac function?</para></problem>
+<solution id="fs-id1884701"><label/>
+<para id="fs-id2530690">It ensures sufficient time for the atrial muscle to contract and pump blood into the ventricles prior to the impulse being conducted into the lower chambers.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2406553"><term>artificial pacemaker</term> <meaning id="fs-id1254045">medical device that transmits electrical signals to the heart to ensure that it contracts and pumps blood to the body</meaning></definition>
+<definition id="fs-id2589344"><term>atrioventricular bundle</term> <meaning id="fs-id1277320">(also, bundle of His) group of specialized myocardial conductile cells that transmit the impulse from the AV node through the interventricular septum; form the left and right atrioventricular bundle branches</meaning></definition>
+<definition id="fs-id865638"><term>atrioventricular bundle branches</term> <meaning id="fs-id2136895">(also, left or right bundle branches) specialized myocardial conductile cells that arise from the bifurcation of the atrioventricular bundle and pass through the interventricular septum; lead to the Purkinje fibers and also to the right papillary muscle via the moderator band</meaning></definition>
+<definition id="fs-id1429061"><term>atrioventricular (AV) node</term> <meaning id="fs-id1618580"> clump of myocardial cells located in the inferior portion of the right atrium within the atrioventricular septum; receives the impulse from the SA node, pauses, and then transmits it into specialized conducting cells within the interventricular septum</meaning></definition>
+<definition id="fs-id1584817"><term>autorhythmicity</term> <meaning id="fs-id2505409">ability of cardiac muscle to initiate its own electrical impulse that triggers the mechanical contraction that pumps blood at a fixed pace without nervous or endocrine control</meaning></definition>
+<definition id="fs-id1802875"><term>Bachmann’s bundle</term> <meaning id="fs-id2095755">(also, interatrial band) group of specialized conducting cells that transmit the impulse directly from the SA node in the right atrium to the left atrium</meaning></definition>
+<definition id="fs-id1874927"><term>bundle of His</term> <meaning id="fs-id1605810">(also, atrioventricular bundle) group of specialized myocardial conductile cells that transmit the impulse from the AV node through the interventricular septum; form the left and right atrioventricular bundle branches</meaning></definition>
+<definition id="fs-id1506870"><term>electrocardiogram (ECG)</term> <meaning id="fs-id1268700">surface recording of the electrical activity of the heart that can be used for diagnosis of irregular heart function; also abbreviated as EKG</meaning></definition>
+<definition id="fs-id1468238"><term>heart block</term> <meaning id="fs-id1327221">interruption in the normal conduction pathway</meaning></definition>
+<definition id="fs-id2182422"><term>interatrial band</term> <meaning id="fs-id2802421">(also, Bachmann’s bundle) group of specialized conducting cells that transmit the impulse directly from the SA node in the right atrium to the left atrium</meaning></definition>
+<definition id="fs-id2209661"><term>intercalated disc</term> <meaning id="fs-id2679078">physical junction between adjacent cardiac muscle cells; consisting of desmosomes, specialized linking proteoglycans, and gap junctions that allow passage of ions between the two cells</meaning></definition>
+<definition id="fs-id1742374"><term>internodal pathways</term> <meaning id="fs-id1504794">specialized conductile cells within the atria that transmit the impulse from the SA node throughout the myocardial cells of the atrium and to the AV node</meaning></definition>
+<definition id="fs-id1990038"><term>myocardial conducting cells</term> <meaning id="fs-id1584083">specialized cells that transmit electrical impulses throughout the heart and trigger contraction by the myocardial contractile cells</meaning></definition>
+<definition id="fs-id1874307"><term>myocardial contractile cells</term> <meaning id="fs-id1844523">bulk of the cardiac muscle cells in the atria and ventricles that conduct impulses and contract to propel blood</meaning></definition>
+<definition id="fs-id1743204"><term>P wave</term> <meaning id="fs-id1454229">component of the electrocardiogram that represents the depolarization of the atria</meaning></definition>
+<definition id="fs-id1487367"><term>pacemaker</term> <meaning id="fs-id2504940">cluster of specialized myocardial cells known as the SA node that initiates the sinus rhythm</meaning></definition>
+<definition id="fs-id2189836"><term>prepotential depolarization</term> <meaning id="fs-id1311049">(also, spontaneous depolarization) mechanism that accounts for the autorhythmic property of cardiac muscle; the membrane potential increases as sodium ions diffuse through the always-open sodium ion channels and causes the electrical potential to rise</meaning></definition>
+<definition id="fs-id1580856"><term>Purkinje fibers</term> <meaning id="fs-id1747091">specialized myocardial conduction fibers that arise from the bundle branches and spread the impulse to the myocardial contraction fibers of the ventricles</meaning></definition>
+<definition id="fs-id1615443"><term>QRS complex</term> <meaning id="fs-id1389667">component of the electrocardiogram that represents the depolarization of the ventricles and includes, as a component, the repolarization of the atria</meaning></definition>
+<definition id="fs-id1695652"><term>sinoatrial (SA) node</term> <meaning id="fs-id1245482">known as the pacemaker, a specialized clump of myocardial conducting cells located in the superior portion of the right atrium that has the highest inherent rate of depolarization that then spreads throughout the heart</meaning></definition>
+<definition id="fs-id1301130"><term>sinus rhythm</term> <meaning id="fs-id1614507">normal contractile pattern of the heart</meaning></definition>
+<definition id="fs-id1125960"><term>spontaneous depolarization</term> <meaning id="fs-id1816876">(also, prepotential depolarization) the mechanism that accounts for the autorhythmic property of cardiac muscle; the membrane potential increases as sodium ions diffuse through the always-open sodium ion channels and causes the electrical potential to rise</meaning></definition>
+<definition id="fs-id1512238"><term>T wave</term> <meaning id="fs-id2049455">component of the electrocardiogram that represents the repolarization of the ventricles</meaning></definition>
+</glossary>
+</document>
